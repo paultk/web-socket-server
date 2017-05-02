@@ -1,0 +1,16 @@
+#afterNameRegistration {
+    visibility: hidden;
+}
+
+#message_board {
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    /*color: blue;*/
+    background-color: grey;
+    overflow: auto;
+}
+#overallDiv {
+    margin: auto;
+    text-align: center;
+}
